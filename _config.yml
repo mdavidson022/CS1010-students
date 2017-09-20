@@ -1,0 +1,15 @@
+# Jekyll configuration
+
+name: CS1010-students
+organization: GWU
+class_name: CS1010-students
+description: Webpage for students to add their info
+
+baseurl: CS1010-students
+
+permalink: /:year/:month/:title
+
+highlighter: rouge
+markdown: kramdown
+
+exclude: ['README.md', 'LICENSE']
