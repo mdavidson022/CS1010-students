@@ -5,7 +5,7 @@ organization: GWU
 class_name: CS1010-students
 description: Webpage for students to add their info
 
-baseurl: CS1010-students
+baseurl: 
 
 permalink: /:year/:month/:title
 
